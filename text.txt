@@ -1,3 +1,1 @@
-Chicken 
-Cow 
-Farm
+This line in feature-2 will vreate a merge conflict
