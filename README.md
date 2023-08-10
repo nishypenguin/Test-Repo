@@ -1,4 +1,4 @@
 # Test-Repo
-Chicke
-Co
-Far
+Chicken
+Cow
+Farm
